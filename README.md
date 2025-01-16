@@ -1,6 +1,6 @@
 # Marketing Campaign Automation System
 
-This project is a **Marketing Campaign Automation System** designed to manage campaigns, schedule them, and send emails to targeted user categories. It uses **Node.js**, **Express**, **MongoDB**, and **JWT-based authentication** for secure access control. The system includes features like campaign creation, execution, and email notifications, along with a scheduler that automatically runs campaigns based on predefined time schedules.
+This project is a **Marketing Campaign Automation System** designed to manage campaigns, schedule them, and send emails to targeted user categories. It uses **TypeScript**, **Express**, **MongoDB**, and **JWT-based authentication** for secure access control. The system includes features like campaign creation, execution, and email notifications, along with a scheduler that automatically runs campaigns based on predefined time schedules.
 
 ---
 
