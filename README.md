@@ -73,3 +73,21 @@ Response: { "message": "Campaign updated successfully", "campaign": { updated-ca
 POST /api/campaigns/:id/execute
 Description: Execute a campaign (send emails to users in the campaign's category).
 Response: { "message": "Campaign executed and emails sent successfully", "campaign": { campaign-details } }
+
+
+## .env Details
+MONGODB_URI= "mongodb+srv://harkirola75way:Harsh123@cluster0.pdvck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+PORT=5000
+ADMIN_USERNAME="admin"
+ADMIN_PASSWORD="secretpassword"
+JWT_SECRET="your_jwt_secret"
+
+EMAIL_USER="walia.75way@gmail.com"
+EMAIL_PASS="cwganvczwigkepfh"
+
+SMTP_HOST="smtp.gmail.com"
+SMTP_PORT="465"
+SMTP_SECURE="true"
+SMTP_USER="walia.75way@gmail.com"
+SMTP_PASS="cwganvczwigkepfh"
+
